@@ -1,5 +1,6 @@
 COMMAND 
 TEAM UNIQUE FORCE 
+
 $ pkg update
 $ pkg upgrade
 $ pkg install python
